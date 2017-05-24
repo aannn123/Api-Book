@@ -1,0 +1,5 @@
+default:
+    extensions:
+        context:
+            paramaters:
+                base_url: http://localhost:8080
